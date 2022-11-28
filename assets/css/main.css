@@ -943,4 +943,8 @@
 .footer-download-apps-img{
     height: 25px;
 }
+button{
+    background-color: transparent;
+    border: transparent;
+}
 
